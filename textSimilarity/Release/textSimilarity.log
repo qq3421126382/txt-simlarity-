@@ -1,0 +1,10 @@
+﻿  textSimilarity.cpp
+D:\vscode\textSimilarity\textSimilarity\textSimilarity.cpp(185,20): warning C4018:  “<”: 有符号/无符号不匹配
+D:\vscode\textSimilarity\textSimilarity\textSimilarity.cpp(191,20): warning C4018:  “<”: 有符号/无符号不匹配
+D:\vscode\textSimilarity\textSimilarity\textSimilarity.cpp(197,20): warning C4018:  “<”: 有符号/无符号不匹配
+  正在生成代码
+  3 of 2431 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    10 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  textSimilarity.vcxproj -> D:\vscode\textSimilarity\Release\textSimilarity.exe
